@@ -1,7 +1,8 @@
 #dwyl _Code of Conduct_
 _**Note: All of our content is [published as open source](https://github.com/dwyl/intellectual-property), so please fork and reuse this code of conduct if you like it - we'd be honoured if you did!**_
 
-<img align="right" src="http://social.beefeater.co.uk/assets/family-portrait/img/explanation/mr-happy.png"/>
+<img align="right" src="https://cloud.githubusercontent.com/assets/4185328/18620097/e2cf51e2-7e03-11e6-8a66-9fce1d709fc6.jpg"/>
+
 
 1. The [***Golden Rule***](https://en.wikipedia.org/wiki/Golden_Rule): treat others as you would like others to treat you.
 
@@ -38,4 +39,4 @@ We would of course like to think everyone does this stuff even when they're not 
 <br/>
 <br/>
 <br/>
-<small>_Mr Happy image originally from: http://social.beefeater.co.uk/assets/family-portrait/img/explanation/mr-happy.png_</small>
+<small>_Mr Happy image originally from: http://www.hellokids.com/c_29131/free-kids-games/kids-puzzles-games/mr-men-and-little-miss-puzzles/mister-happy_</small>
