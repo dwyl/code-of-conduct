@@ -16,23 +16,25 @@ _**Note: All of our content is [published as open source](https://github.com/dwy
 
 6. **Be respectful of other people's working hours.** People may be working when you're relaxing and vice versa so keep that in mind, whether you're chatting loudly in the same physical space as them or getting impatient about the resolution of an issue!
 
-7. **Be curious.** Got a question? *Ask* people on their breaks. Found the prettiest flower you ever did see? Point it out! Take time to explore, discover and draw inspiration from your everyday.
+7. **Always be learning or teaching.****
 
-8. **We're here to help!** If there's anything you need, just ask!
+8. Be curious.** Got a question? *Ask* people on their breaks. Found the prettiest flower you ever did see? Point it out! Take time to explore, discover and draw inspiration from your everyday.
 
-9. **Take & Share lots of photos**: Please take lots of lovely photos (*and videos*!) and post them to your favourite social networks. We love seeing people _do what they love_! **#dwyl**    
+9. **We're here to help!** If there's anything you need, just ask!
+
+10. **Take & Share lots of photos**: Please take lots of lovely photos (*and videos*!) and post them to your favourite social networks. We love seeing people _do what they love_! **#dwyl**    
 (*always ask for people's permission before posting a photo of them*)
 
 ###Working with us in person
 We would of course like to think everyone does this stuff even when they're not working in the same physical place as us, but here's how we like to do things.
 
-10 . **Be tidy.** Common sense/courtesy apply here - always clean any mess on counters/floors, wash dishes/cutlery you use and leave things as you find them (or better!).
+11. **Be tidy.** Common sense/courtesy apply here - always clean any mess on counters/floors, wash dishes/cutlery you use and leave things as you find them (or better!).
 
-11 . **Keep the noise levels down.** Avoid being super loud, especially during the group's established working hours.
+12. **Keep the noise levels down.** Avoid being super loud, especially during the group's established working hours.
 
-12 . **Recycle**. Always separate waste into recyclable and non-recyclable. If in doubt, *ask*!
+13. **Recycle**. Always separate waste into recyclable and non-recyclable. If in doubt, *ask*!
 
-13 . **Buy/Use/Wear _Sun Screen_**: If you're [working with us in Portugal](https://github.com/dwyl/summer), remember the Sun is Strong, you _will_ burn if you aren't careful!
+14. **Buy/Use/Wear _Sun Screen_**: If you're [working with us in Portugal](https://github.com/dwyl/summer), remember the Sun is Strong, you _will_ burn if you aren't careful!
 
 
 <br/>
