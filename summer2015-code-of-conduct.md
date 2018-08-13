@@ -1,4 +1,4 @@
-#Summer of dwyl 2015 *Code of Conduct*
+# Summer of dwyl 2015 *Code of Conduct*
 For our [2015 Summer of code](https://github.com/dwyl/summer-2015), we wrote a slightly more specific code of conduct.
 
 <img align="right" src="http://social.beefeater.co.uk/assets/family-portrait/img/explanation/mr-happy.png"/>

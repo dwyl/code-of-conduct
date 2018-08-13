@@ -1,4 +1,4 @@
-#dwyl _Code of Conduct_
+# dwyl _Code of Conduct_
 _**Note: All of our content is [published as open source](https://github.com/dwyl/intellectual-property), so please fork and reuse this code of conduct if you like it - we'd be honoured if you did!**_
 
 <img align="right" src="https://cloud.githubusercontent.com/assets/4185328/18620097/e2cf51e2-7e03-11e6-8a66-9fce1d709fc6.jpg"/>
@@ -12,7 +12,7 @@ _**Note: All of our content is [published as open source](https://github.com/dwy
 
 4. **If someone asks you nicely to _stop_ doing something, _stop_.** They're coming from a good place.
 
-5. **Be human.** Behave like a ~~decent~~ *awesome* human being, as if someone you respect is always around! 
+5. **Be human.** Behave like a ~~decent~~ *awesome* human being, as if someone you respect is always around!
 
 6. **Be respectful of other people's working hours.** People may be working when you're relaxing and vice versa so keep that in mind, whether you're chatting loudly in the same physical space as them or getting impatient about the resolution of an issue!
 
@@ -25,7 +25,7 @@ _**Note: All of our content is [published as open source](https://github.com/dwy
 10. **Take & Share lots of photos**: Please take lots of lovely photos (*and videos*!) and post them to your favourite social networks. We love seeing people _do what they love_! **#dwyl**    
 (*always ask for people's permission before posting a photo of them*)
 
-###Working with us in person
+### Working with us in person
 We would of course like to think everyone does this stuff even when they're not working in the same physical place as us, but here's how we like to do things.
 
 11. **Be tidy.** Common sense/courtesy apply here - always clean any mess on counters/floors, wash dishes/cutlery you use and leave things as you find them (or better!).
